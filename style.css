@@ -1,0 +1,27 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'NanumSquare', sans-serif !important;
+    text-align: center;
+}
+
+.title {
+    font-size: 8vh;
+}
+
+.content {
+    font-size: 3vh;
+    line-height: 1.5;
+}
+
+.subtitle {
+    margin-top: 2vh;
+    font-size: 2.5vh;
+}
+
+.blue-color {
+    color: #2979ff;
+}
